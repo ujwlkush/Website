@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}
+#left {
+    width: 50%;
+    padding: 10px;
+    background-color: white;
+}
+#blog-main{
+    display: flex;
+    padding: 0px 85px;
+}
+
+#b{
+    text-align: center;
+}
+#photo{
+    width: 50%;
+}
+#photo2{
+    width: 50%;
+}
